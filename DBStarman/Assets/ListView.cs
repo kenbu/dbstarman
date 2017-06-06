@@ -4,7 +4,7 @@ using UnityEngine;
 using kenbu.DBStarman;
 using UnityEngine.UI;
 
-public class ListView : DBStarman<CellView, CellData> {
+public class ListView : DBStarmanOneColumList<CellView, CellData> {
 
 
     [SerializeField]
@@ -20,7 +20,7 @@ public class ListView : DBStarman<CellView, CellData> {
 
     //ViewPort上で表示されるCellのうち何番目か
     public override Vector2 GetCellSize(int index){
-        return new Vector2 (394, 100);
+        return new Vector2 (200, 100);
     }
 
 
