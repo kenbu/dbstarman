@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/DBStarman/DBStarman.cs">
+    <Files>
+      <File FileName="Assets/ListView.cs" Line="28" Column="1" />
+      <File FileName="Assets/Dev.cs" Line="20" Column="18" />
+      <File FileName="Assets/DBStarman/DBStarman.cs" Line="22" Column="9" />
+      <File FileName="Assets/CellView.cs" Line="14" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/a13098/dbstarman/DBStarman/Assets/ListView.cs" line="31" column="9" />
+      <Breakpoint file="/Users/a13098/dbstarman/DBStarman/Assets/ListView.cs" line="27" column="1" />
+      <Breakpoint file="/Users/a13098/dbstarman/DBStarman/Assets/DBStarman/DBStarman.cs" line="25" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
